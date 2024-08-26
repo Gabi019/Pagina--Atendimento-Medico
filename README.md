@@ -20,3 +20,8 @@ As técnicas e tecnologias que serão utilizadas neste projeto são:
 - Styled-Components: Biblioteca para estilização de componentes React utilizando CSS-in-JS.
 - MUI: Biblioteca de componentes React para criação de interfaces de usuário modernas e responsivas.
 - Recharts: Biblioteca para criação de gráficos utilizando React.
+
+## Comandos para inicializar o projeto:
+
+- npm start
+- json-server --watch -p 8080 db.json
